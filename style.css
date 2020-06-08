@@ -3,6 +3,7 @@
 }
 #consistency-rule{
     width: 700px;
+    position: static;
 }
 
 #consistency-rule-2{
