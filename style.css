@@ -45,5 +45,5 @@ h1{
     width: 200px;
 }
 #matching-rule{
-    offset-position: 10;
+    margin-left: auto;
 }
