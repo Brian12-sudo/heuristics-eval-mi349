@@ -1,3 +1,6 @@
 #visibility{
     width: 300px;
 }
+#consistency-rule{
+    width: fit-content;
+}
