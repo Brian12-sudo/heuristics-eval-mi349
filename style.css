@@ -8,3 +8,9 @@
 #consistency-rule-2{
     width: 500px;
 }
+body{
+    background: #0b0b0b;
+    color: #ffffff;
+    padding: 50px;
+    font-family: Helvetica;
+    }
