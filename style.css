@@ -44,3 +44,6 @@ h1{
 #help-rule-2{
     width: 200px;
 }
+#matching-rule{
+    offset-position: 10;
+}
