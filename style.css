@@ -7,7 +7,7 @@
 
 #consistency-rule-2{
     width: 700px;
-    position: relative;
+    position: static;
 }
 body{
     background: lightblue;
